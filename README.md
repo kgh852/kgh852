@@ -1,10 +1,7 @@
-`Hi my name is guhyun`
 
-```
-<h3>
-asdf
-</h3>
-```
+<h3>School</h3>
+<h3>Tech</h3>
+<h3>Learning</h3>
 
 <details>
   <summary>kgh852's Throphy (click me) </summary>
