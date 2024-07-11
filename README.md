@@ -1,10 +1,9 @@
 ## 👋 Hi my name is guhyun
-<h3> 
-  tech-stack
-</h3>
 
 ```
+<h3>
 asdf
+</h3>
 ```
 
 <details>
