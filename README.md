@@ -1,22 +1,17 @@
+## hi my name is Guhyun
 
-<h4>Name</h4>
-
-`Guhyun Gim`
-<h4>Birthday</h4>
-
-`2008-05-02`
-<h4>School</h4>
-
-`Gyeongbuk Software High School`
-<h4>Tech</h4>
-
-`Cloud` `Backend`
-<h4>Language</h4>
-
-`js` `ts` `java`
-<h4>Learning</h4>
-
-`aws` `k8s` `docker` `terraform` `argo CD` `jenkins`
+```
+{
+    "Name": "Guhyun Gim",
+    "Birthday": "2008-05-02",
+    "School": "Gyeongbuk Software High School",
+    "Tech": ["Cloud", "Backend"],
+    "Learning": ["aws", "Jenkins", "Argo CD", "terraform", "docker"],
+    
+    "MostLanguage": ["JS", "TS", "Java"],
+    "email": "gimguhyun0502@gmail.com",
+}
+```
 <details>
   <summary>kgh852's Throphy (click me) </summary>
   
