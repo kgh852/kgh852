@@ -10,10 +10,13 @@
 `Gyeongbuk Software High School`
 <h3>Tech</h3>
 
-`Cloud``Backend`
-<h3></h3>
+`Cloud` `Backend`
+<h3>Language</h3>
+
+`js` `ts` `java`
 <h3>Learning</h3>
 
+`aws` `k8s` `docker` `terraform` `argo CD` `jenkins`
 <details>
   <summary>kgh852's Throphy (click me) </summary>
   
