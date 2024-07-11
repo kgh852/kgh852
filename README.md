@@ -1,6 +1,13 @@
 
+<h3>Name</h3>
+`Guhyun Gim`
+<h3>Birthday</h3>
+`2008-05-02`
 <h3>School</h3>
+`Gyeongbuk Software High School`
 <h3>Tech</h3>
+`Cloud``Backend`
+<h3></h3>
 <h3>Learning</h3>
 
 <details>
