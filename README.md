@@ -7,7 +7,6 @@
     "School": "Gyeongbuk Software High School",
     "Tech": ["Cloud", "Backend"],
     "Learning": ["aws", "Jenkins", "Argo CD", "terraform", "docker"],
-    
     "MostLanguage": ["JS", "TS", "Java"],
     "email": "gimguhyun0502@gmail.com",
 }
