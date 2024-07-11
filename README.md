@@ -1,20 +1,20 @@
 
-<h3>Name</h3>
+<h4>Name</h4>
 
 `Guhyun Gim`
-<h3>Birthday</h3>
+<h4>Birthday</h4>
 
 `2008-05-02`
-<h3>School</h3>
+<h4>School</h4>
 
 `Gyeongbuk Software High School`
-<h3>Tech</h3>
+<h4>Tech</h4>
 
 `Cloud` `Backend`
-<h3>Language</h3>
+<h4>Language</h4>
 
 `js` `ts` `java`
-<h3>Learning</h3>
+<h4>Learning</h4>
 
 `aws` `k8s` `docker` `terraform` `argo CD` `jenkins`
 <details>
