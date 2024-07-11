@@ -9,6 +9,7 @@
 
 `Gyeongbuk Software High School`
 <h4>Tech</h4>
+
 `Cloud` `Backend`
 <h4>Language</h4>
 
