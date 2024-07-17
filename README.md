@@ -16,16 +16,13 @@
 }
 ```
 
-  
-  ## trophy
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=kgh852)]()
+## trophy
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=kgh852)]()
 
+## stats
 
-  ## stats
-  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgh852)]()
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgh852)]()
   
 
 
