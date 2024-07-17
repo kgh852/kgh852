@@ -12,11 +12,10 @@
 }
 ```
 <details>
-  <summary>kgh852's Throphy (click me) </summary>
+  
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=kgh852)]()
-  
-</details>
+
 
 <details>
   <summary>kgh852's Stats (click me) </summary>
