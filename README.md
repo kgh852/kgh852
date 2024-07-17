@@ -11,13 +11,12 @@
     "email": "gimguhyun0502@gmail.com",
 }
 ```
-<details>
+
   
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=kgh852)]()
 
 
-<details>
   <summary>kgh852's Stats (click me) </summary>
   
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgh852)]()
