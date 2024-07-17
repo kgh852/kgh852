@@ -1,6 +1,6 @@
 ## hi my name is Guhyun
 
-```
+```json
 {
     "Name": "Guhyun Gim",
     "Birthday": "2008-05-02",
