@@ -6,30 +6,31 @@
 
 ```json
 {
-    "Name": "Guhyun Gim",
-    "Birthday": "2008-05-02",
+    "Name": "Gim guhyun",
+    "Birth": "2008-05-02",
     "School": "Gyeongbuk Software High School",
-    "Tech": ["Cloud", "Backend"],
-    "Learning": ["aws", "Jenkins", "Argo CD", "terraform", "docker"],
-    "MostLanguage": ["JS", "TS", "Java"],
-    "email": "gimguhyun0502@gmail.com",
+    "Lang": ["Javascript", "Typescript", "Java"],
+    "Tech": [
+        {"Name": "Express.js", "progress": "60%"},
+        {"Name": "Nest.js", "progress": "40"},
+        {"Name": "Spring Boot", "progress" "30%"}
+    ],
+    "Cloud" [
+        {"Name": "AWS", "progress": "40%"},
+        {"Name": "Docker", "progress": "60%"},
+        {"Name": "k8s", "progress": "10%"},
+        {"Name": "terraform", "progress": "80%"}
+    ],
+    "Award" [
+        "not yet"
+    ],
+    "Contact" [
+        {"email": "gimguhyun0502@gmail.com"},
+        {"discord": "rlarngus08"}
+    ]
 }
 ```
 
 ## trophy
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kgh852)]()
-
-## stats
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kgh852)]()
-  
-## langs
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kgh852)]()
-
-
