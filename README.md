@@ -17,7 +17,7 @@
         {"Name": "AWS", "progress": "40%"},
         {"Name": "Docker", "progress": "60%"},
         {"Name": "k8s", "progress": "10%"},
-        {"Name": "terraform", "progress": "80%"}
+        {"Name": "terraform", "progress": "40%"}
     ],
     "Award" [
         "not yet"
