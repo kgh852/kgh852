@@ -20,7 +20,7 @@
         {"Name": "terraform", "progress": "40%"}
     ],
     "Award" [
-        "not yet"
+        {"2023 Hacking Mail Idea Contest": "2nd"}
     ],
     "Contact" [
         {"email": "gimguhyun0502@gmail.com"},
