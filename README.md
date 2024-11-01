@@ -11,7 +11,7 @@
     "Tech": [
         {"Name": "Express.js", "progress": "60%"},
         {"Name": "Nest.js", "progress": "40"},
-        {"Name": "Spring Boot", "progress" "30%"}
+        {"Name": "Spring Boot", "progress": "30%"}
     ],
     "Cloud" [
         {"Name": "AWS", "progress": "40%"},
