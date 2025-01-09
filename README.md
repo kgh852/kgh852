@@ -31,8 +31,7 @@
 }
 ```
 
-<details>
-<summary>activity</summary>
+
 ```json
 {
     "activiry" [
@@ -47,7 +46,7 @@
     ]
 }
 ```
-</details>
+
 
 ## trophy
 
