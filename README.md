@@ -20,7 +20,9 @@
         {"Name": "terraform", "progress": "40%"}
     ],
     "Award" [
-        {"2023 Hacking Mail Idea Contest": "2nd"}
+        {"2023 Hacking Mail Idea Contest": "2nd"},
+        {"2024 GBSW Portfolio Contest": "3rd"},
+        {"4th GBSW Hackerton": "Excellence Award"}
     ],
     "Contact" [
         {"email": "gimguhyun0502@gmail.com"},
