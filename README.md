@@ -7,17 +7,17 @@
     "Name": "Gim guhyun",
     "Birth": "2008-05-02",
     "School": "Gyeongbuk Software High School",
-    "Lang": ["Javascript", "Typescript", "Java"],
+    "Lang": ["Javascript", "Typescript"],
     "Tech": [
         {"Name": "Express.js", "progress": "60%"},
         {"Name": "Nest.js", "progress": "40"},
         {"Name": "Spring Boot", "progress": "30%"}
     ],
     "Cloud" [
-        {"Name": "AWS", "progress": "40%"},
+        {"Name": "AWS", "progress": "20%"},
         {"Name": "Docker", "progress": "60%"},
-        {"Name": "k8s", "progress": "10%"},
-        {"Name": "terraform", "progress": "40%"}
+        {"Name": "k8s", "progress": "5%"},
+        {"Name": "terraform", "progress": "20%"}
     ],
     "Award" [
         {"2023 Hacking Mail Idea Contest": "2nd"},
