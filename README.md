@@ -16,8 +16,8 @@ jobs:
 
     - name: Tech stack
       run: |
-        echo "- Javascript"
-        echo "- Typescript"
+        echo "Javascript"
+        echo "Typescript"
         echo "express.js"
         echo "AWS"
         echo "Kubernetes"
